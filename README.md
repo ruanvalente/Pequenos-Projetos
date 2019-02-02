@@ -1,2 +1,2 @@
 # Pequenos-Projetos
-Coisas que aprendi e aprendo com Front.
+Coisas que aprendi e aprendo com Front. :tada:
